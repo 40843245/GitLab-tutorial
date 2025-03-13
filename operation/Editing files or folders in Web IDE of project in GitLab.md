@@ -13,7 +13,7 @@ Open Web IDE
 
 ![image](https://github.com/user-attachments/assets/fdbe7c87-88a6-4e42-919d-4ada4073ed5c)
 
-One approach is follow the instruction in [Opening web IDE of project in GitLab.md](https://github.com/40843245/GitLab-tutorial/blob/main/operation/Opening%20web%20IDE%20of%20project%20in%20GitLab.md)
+One approach is to follow the instructions in [Opening web IDE of project in GitLab.md](https://github.com/40843245/GitLab-tutorial/blob/main/operation/Opening%20web%20IDE%20of%20project%20in%20GitLab.md)
 
 Step 2:
 
